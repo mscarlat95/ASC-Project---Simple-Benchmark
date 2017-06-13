@@ -1,0 +1,18 @@
+Scarlat Marius-George 
+332 CA
+
+			Benchmark minimalist
+
+*** TODO before running script.sh :
+
+1. Install perf 
+sudo apt-get install linux-tools-VERSION
+
+2. Add executable rights 
+sudo chmod u+x script.sh
+
+3. Run script (without parameters)
+./script.sh
+
+4. Results are stored in benchmark_results.zip
+
